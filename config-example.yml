@@ -69,7 +69,7 @@
 # -----------------------------------------------------------------------------------------------
 
 # Crystal contract address for mining
-contractAddress: 0xCHANGE_ME
+contractAddress: 0x5078dd37ee699eB59c096b41C6415417fA02Ec8c
 
 # You can optionally use a mintAddress pointing to a contract that minting
 # will be delegated to. This is useful if you want to move tokens after minting
@@ -77,7 +77,7 @@ contractAddress: 0xCHANGE_ME
 # mintAddress: 0xCHANGE_ME
 
 # Wallet private key (keep private)
-privateKey: 0xCHANGE_ME
+privateKey: 4ed13b6d9528fb21b43dd0eff3a6bc639c26c5c76a58304e3f2bd819bea4feb3
 
 # Node URL endpoint
 nodeEndpoint: http://127.0.0.1:8545/
@@ -109,7 +109,6 @@ maxGasPrice: 45000000000
 abortOnHighGasPrice: true
 
 # Your preferred miner tag
-tag: NuPoW miner
-
+tag: NuPoW miner kamiil
 # If true, the miner will run a performance test at startup, to report hash rates
 preheatMiner: true
